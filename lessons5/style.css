@@ -1,0 +1,23 @@
+body 
+{background-image:url("lord2.jpg"); 
+background-repeat-x;
+backgroind-attachment:fixed 
+}
+p{
+color:white  ;  
+}
+ 
+h2{
+text-align:center ;
+color:gold ;  
+}
+
+z{
+  color:white;
+}
+li{
+  color:gold;
+}
+strong{
+  color:red;
+}
